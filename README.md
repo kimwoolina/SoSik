@@ -5,14 +5,23 @@ The application includes two main functions. The application records user speaki
 
 # Development Environment 
 Android Studio 3.6.2
+
 Build #AI-192.7142.36.36.6308749, built on March 19, 2020
+
 Runtime version: 1.8.0_212-release-1586-b04 amd64
+
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+
 Windows 10 10.0
+
 GC: ParNew, ConcurrentMarkSweep
+
 Memory: 1246M
+
 Cores: 4
+
 Registry: ide.new.welcome.screen.force=true
+
 Non-Bundled Plugins: 
 
 # Test Environment
