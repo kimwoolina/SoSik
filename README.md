@@ -23,7 +23,7 @@ This application is developed for people who have difficulty with hearing or spe
 - LG V30 ThinQ API 26
 
 ## Award
-2020 한국컴퓨터정보학회하계학술대회 우수논문상
+2020 한국컴퓨터정보학회(KSCI) 하계학술대회 우수논문상
 
 ## Paper
 한국컴퓨터정보학회(KSCI: Korean Society of Computer Information)
