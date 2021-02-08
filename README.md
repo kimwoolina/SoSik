@@ -29,5 +29,4 @@ This application is developed for people who have difficulty with hearing or spe
 한국컴퓨터정보학회(KSCI: Korean Society of Computer Information)
 - http://ibookkorea.net/Viewer/2020-02/153
 - https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09414953&language=ko_KR
-### Paper presentation video
-- https://www.youtube.com/watch?v=jMhN7Fp_2e4
+[Paper presentation video][https://www.youtube.com/watch?v=jMhN7Fp_2e4]
